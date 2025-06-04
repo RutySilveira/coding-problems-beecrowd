@@ -1,0 +1,39 @@
+# C++
+*.exe
+*.out
+*.obj
+*.o
+*.gch
+*.log
+*.bin
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C
+*.o
+*.out
+*.exe
+
+# Backup files
+*~
+*.bak
+*.swp
+.DS_Store
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
