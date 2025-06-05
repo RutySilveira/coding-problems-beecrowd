@@ -25,12 +25,15 @@ Bem-vindo(a)! Este repositório contém soluções para diversos problemas de pr
 
 Este projeto utiliza as seguintes linguagens de programação:
 
+Este projeto utiliza as seguintes linguagens de programação:
+
 | Linguagem | Logo                                                                                                                                                  |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Python    | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="35">       |
 | Java      | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="35">                                                               |
+| C         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="35">                                                         |
 | C++ (CPP) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="CPP (C++)" width="35"> |
-| MySQL     | <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg" alt="MySQL" width="35">                                                |
+| MySQL     | <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg" alt="MySQL" width="35">                                                |     |
 
 Sinta-se à vontade para explorar as soluções e aprender com elas.
 
